@@ -179,4 +179,4 @@ client.on('message',async message => {//Toxic Code
   }
 });//Toxic Code
 
-Client.login("NTMxNTQ4Mjk0NTg2MDQwMzIw.DxPjBw.Izr-j2mi72qWyL2mZohpoM5D_kc")
+client.login(process.env.TOKEN);
